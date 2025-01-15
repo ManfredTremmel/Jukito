@@ -8,7 +8,7 @@
         <version>9</version>
     </parent>
 
-    <groupId>org.jukito</groupId>
+    <groupId>de.knightsoft-net</groupId>
     <artifactId>jukito-parent</artifactId>
     <version>1.6-SNAPSHOT</version>
     <packaging>pom</packaging>
@@ -99,9 +99,9 @@
     </contributors>
 
     <scm>
-        <connection>scm:git:git@github.com:ArcBees/Jukito.git/</connection>
-        <developerConnection>scm:git:git@github.com:ArcBees/Jukito.git</developerConnection>
-        <url>https://github.com/ArcBees/Jukito</url>
+        <connection>scm:git:git@github.com:ManfredTremmel/Jukito.git/</connection>
+        <developerConnection>scm:git:git@github.com:ManfredTremmel/Jukito.git</developerConnection>
+        <url>https://github.com/ManfredTremmel/Jukito</url>
     </scm>
 
     <issueManagement>
