@@ -6,7 +6,7 @@
     <parent>
         <groupId>de.knightsoft-net</groupId>
         <artifactId>jukito-parent</artifactId>
-        <version>1.6-SNAPSHOT</version>
+        <version>1.6</version>
     </parent>
 
     <artifactId>jukito-samples</artifactId>
@@ -29,7 +29,7 @@
 
         <!-- Test dependencies -->
         <dependency>
-            <groupId>org.jukito</groupId>
+            <groupId>de.knightsoft-net</groupId>
             <artifactId>jukito</artifactId>
             <version>${project.version}</version>
             <scope>test</scope>

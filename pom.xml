@@ -10,7 +10,7 @@
 
     <groupId>de.knightsoft-net</groupId>
     <artifactId>jukito-parent</artifactId>
-    <version>1.6-SNAPSHOT</version>
+    <version>1.6</version>
     <packaging>pom</packaging>
     <name>Jukito</name>
     <inceptionYear>2010</inceptionYear>
